@@ -159,3 +159,10 @@ a{
     margin-right: 0;
 }
 
+@media (max-height: 750px) {
+  .main {
+    /* do something.. */
+    height: auto;
+  }
+}
+
